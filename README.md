@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Nicki
+- 👀 I’m interested in linux
+- 🌱 I’m currently learning linux
